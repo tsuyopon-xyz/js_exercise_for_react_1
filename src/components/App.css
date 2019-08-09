@@ -1,0 +1,10 @@
+.App-container {
+  padding: 20pxs;
+  background: #ccc;
+  color: #fff;
+}
+
+.App-title {
+  background: #f00;
+  text-align: center;
+}
