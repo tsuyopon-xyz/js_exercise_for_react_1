@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# レポジトリ内容
 
-## Available Scripts
+このレポジトリの内容は `npx create-react-app js_exercise_for_react_1` を実行して、 `README.md` のみを変更したものとなります。
 
-In the project directory, you can run:
+後ほど記述(レポジトリページ)
 
-### `npm start`
+## 課題
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 以下の「課題をクリアするためのステップ」の内容を全て対応する
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### 課題をクリアするためのステップ
 
-### `npm test`
+- [ ] 後ほど記述
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## レビュー依頼時の注意
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 一般的な開発フローに慣れるために、[git flow](https://qiita.com/KosukeSone/items/514dd24828b485c69a05)で作業を進めることをオススメする
+    - masterブランチからdevelopブランチを作成する
+    - developブランチからfeatureブランチを作成する
+    - featureブランチで作業をして、プルリクエストを作成するときは、developブランチにマージされるように作成する
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## 参考記事
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+課題をこなしていて、行き詰まったら以下の資料を参考にしていただければ解答にたどり着けるかと思います。
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Web白熱教室
+    - [【JavaScript】Reactとは](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/what-is-the-react/)
+    - [【React】Create React Appで開発環境を構築する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/setup-env-with-create-react-app/)
+    - [【JavaScript】importとexportの使い方を覚える](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/how-to-use-import-and-export/)
+    - [【React】JSXの概要を理解する&必要最小限の環境に修正する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/what-is-the-jsx-and-modify-env/)
+    - [【React】開発効率を上げるChrome拡張を追加する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/add-react-developer-tools/)
+    - [【React】スタイルを整える主な4つの方法](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/attaching-styles-in-4-ways/)
+- プルリクエスト(`git flow` の開発スタイルで機能毎にブランチを分けて実装を進める際に参考になるページ)
+    - https://github.com/tsuyopon-xyz/api_server_with_mock_db/pulls?q=is%3Apr+is%3Aclosed
