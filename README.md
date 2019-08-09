@@ -2,7 +2,7 @@
 
 このレポジトリのmasterブランチの内容は `npx create-react-app js_exercise_for_react_1` を実行して、 `README.md` の修正と、完成形の画像を追加しただけです。
 
-この課題は、Web白熱教室のReact課題その1「【エクササイズ】CSSを反映させたReactコンポーネントを作る」の課題レポジトリになります。
+この課題は、Web白熱教室のReact課題その1「[【エクササイズ】CSSを反映させたReactコンポーネントを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/js-exercise-for-react-1/)」の課題レポジトリになります。
 
 ## 課題
 
