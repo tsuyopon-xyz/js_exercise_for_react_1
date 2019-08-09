@@ -1,8 +1,8 @@
 # レポジトリ内容
 
-このレポジトリの内容は `npx create-react-app js_exercise_for_react_1` を実行して、 `README.md` のみを変更したものとなります。
+このレポジトリのmasterブランチの内容は `npx create-react-app js_exercise_for_react_1` を実行して、 `README.md` の修正と、完成形の画像を追加しただけです。
 
-後ほど記述(レポジトリページ)
+この課題は、Web白熱教室のReact課題その1「【エクササイズ】CSSを反映させたReactコンポーネントを作る」の課題レポジトリになります。
 
 ## 課題
 
@@ -10,6 +10,8 @@
 - 以下の完成形の画像と同じ見た目になるように `App.js` と `App.css` を実装する
 
 ## 完成形
+
+![](images_for_exercise/compliete_for_react_1.png)
 
 ### 課題をクリアするためのステップ
 
